@@ -57,7 +57,7 @@ The Excel dashboard includes:
 - Interactive Pivot Charts for Salary, Department, Job Role, Age & Gender, Education Field, Marital Status
 - **Slicer: Education Type** to dynamically filter insights based on employee education
 
-![Dashboard Screenshot] (#) <a href=""></a>
+![Dashboard Screenshot] (#) <a href="https://github.com/NasiraShaik/HR-Data-Analytics-Dashboard/blob/main/Screenshot%20(37).png">Dashboard</a>
 
 ---
 
