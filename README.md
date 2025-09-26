@@ -2,7 +2,7 @@
 ## Project Description
 This project focuses on analyzing employee attrition and workforce trends using HR data. The goal is to identify factors contributing to employee turnover, understand workforce demographics, and provide actionable insights to reduce attrition.
 The dashboard uses **interactive Pivot Tables and Charts** in Excel to explore key HR metrics such as:
-Attrition rate, active employees, and total employees,attrition count
+Attrition rate, active employees, and total employees,attrition count, average age
 Attrition by **Salary, Marital Status, Department, Job Role, Age, Gender, and Education Field**
 Average **Job Satisfaction** and **Environment Satisfaction**
 Trends and patterns to support **data-driven HR strategies**
@@ -53,16 +53,18 @@ Salary, Years at Company, Attrition
 
 ## Dashboard
 The Excel dashboard includes:
-- KPI Cards (Total Employees, Attrition, Active Employees, Avg Age, Avg Satisfaction)
-- Interactive Pivot Charts for Salary, Department, Job Role, Age & Gender, Education Field
-- Slicer for **Education Type** for dynamic analysis
+- KPI Cards (Total Employees, Attrition, Active Employees, Attrition Rate, Avg Age, Avg Job Satisfaction, Avg Environment Satisfaction)
+- Interactive Pivot Charts for Salary, Department, Job Role, Age & Gender, Education Field, Marital Status
+- **Slicer: Education Type** to dynamically filter insights based on employee education
 
 ![Dashboard Screenshot] (#) <a href=""></a>
+
+---
 
 ## How to Use
 1. Open the Excel file.
 2. Explore Pivot Tables and Charts.
-3. Use slicers to filter by Department, Gender, or Job Role.
+3. Use the **Education Type slicer** to filter insights by different education backgrounds.
 4. Review insights and take actionable decisions based on findings.
 
 
