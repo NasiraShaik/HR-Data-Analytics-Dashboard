@@ -1,11 +1,12 @@
 # HR-Data-Analytics-Dashboard (Interactive Dashboard creation using MS Excel)
 ## Project Description
 This project focuses on analyzing employee attrition and workforce trends using HR data. The goal is to identify factors contributing to employee turnover, understand workforce demographics, and provide actionable insights to reduce attrition.
+
 The dashboard uses **interactive Pivot Tables and Charts** in Excel to explore key HR metrics such as:
-Attrition rate, active employees, and total employees,attrition count, average age
-Attrition by **Salary, Marital Status, Department, Job Role, Age, Gender, and Education Field**
-Average **Job Satisfaction** and **Environment Satisfaction**
-Trends and patterns to support **data-driven HR strategies**
+- Attrition rate, active employees, total employees, attrition count, average age
+- Attrition by **Salary, Marital Status, Department, Job Role, Age and Gender, and Education Field**
+- Average **Job Satisfaction** and **Environment Satisfaction**
+- Trends and patterns to support **data-driven HR strategies**
 
 ---
 
