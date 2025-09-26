@@ -6,12 +6,19 @@ Attrition rate, active employees, and total employees,attrition count
 Attrition by **Salary, Marital Status, Department, Job Role, Age, Gender, and Education Field**
 Average **Job Satisfaction** and **Environment Satisfaction**
 Trends and patterns to support **data-driven HR strategies**
+
+---
+
 ## Dataset used
 The dataset includes **1,470 employees** with details such as:
 Age, Gender, Marital Status, Department, Job Role
 Education Field, Job Satisfaction, Environment Satisfaction
 Salary, Years at Company, Attrition
-[Download Dataset] (#) <a href="https://github.com/NasiraShaik/HR-Data-Analytics-Dashboard/blob/main/HR%20DATA%20(Recovered)%20(Autosaved).xlsx">Dataset</a>
+
+![Download Dataset] (#) <a href="https://github.com/NasiraShaik/HR-Data-Analytics-Dashboard/blob/main/HR%20DATA%20(Recovered)%20(Autosaved).xlsx">Dataset</a>
+
+---
+
 ## Key KPIs
 | KPI                               | Value           |
 |----------------------------------|----------------|
@@ -35,17 +42,20 @@ Salary, Years at Company, Attrition
 
 ---
 
-## Recommendations for 2025–2026
+## Recommendations
 1. **Target high-risk employees**: Under 35 years, males in R&D and Sales, high-risk roles
 2. **Improve salary and benefits** for lower bands (<10k)
 3. **Enhance job satisfaction** via engagement programs, wellness initiatives, and training
 4. **Provide career growth opportunities** for high-risk roles
 5. **Track attrition trends** monthly and conduct exit interviews to prevent turnover
+
+---
+
 ## Dashboard
 The Excel dashboard includes:
 - KPI Cards (Total Employees, Attrition, Active Employees, Avg Age, Avg Satisfaction)
 - Interactive Pivot Charts for Salary, Department, Job Role, Age & Gender, Education Field
-- Slicers for **Department, Gender, and Job Role** for dynamic analysis
+- Slicer for **Education Type** for dynamic analysis
 
 ![Dashboard Screenshot] (#) <a href=""></a>
 
